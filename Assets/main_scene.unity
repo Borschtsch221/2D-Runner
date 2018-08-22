@@ -779,7 +779,7 @@ MonoBehaviour:
   currentRooms:
   - {fileID: 837342757}
   availableItems:
-  - {fileID: 1956301137978798, guid: f834995eb1b222c4c9c5e3089039cb68, type: 2}
+  - {fileID: 100000, guid: f99802030fcb66c4db8d39d59538811d, type: 2}
   currentItems: []
   availableCoins:
   - {fileID: 1152916108325842, guid: c3048e1dc69c9644c9f7da01a1ee4805, type: 2}
